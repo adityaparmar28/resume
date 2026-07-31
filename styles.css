@@ -477,6 +477,31 @@ a {
   color: var(--text-primary);
 }
 
+.project-link {
+  color: var(--text-primary);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  transition: color 0.2s ease;
+}
+
+.project-link:hover {
+  color: var(--accent-color);
+}
+
+.link-icon {
+  width: 13px;
+  height: 13px;
+  opacity: 0;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.project-card:hover .link-icon {
+  opacity: 1;
+  transform: translate(1px, -1px);
+}
+
 .project-tech {
   font-size: 11px;
   color: var(--text-muted);
