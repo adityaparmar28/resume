@@ -11,8 +11,11 @@ Access my live resume here: **[https://adityaparmar28.github.io/resume/](https:/
 
 ## 🚀 Key Features
 
-*   **Dual Theme Engine:** Dark Mode (default, premium slate-dark palette) and Light Mode. Saves preference automatically using `localStorage`.
-*   **Print & PDF Optimization (`@media print`):** Formatted to fit exactly on a single page. Theme toggles are hidden, and high-contrast, ink-safe typography is forced during print setup.
+*   **Dual Theme Engine:** Dark Mode (default, premium slate-dark/violet glassmorphism palette) and Light Mode. Saves preference automatically using `localStorage`.
+*   **Premium White Header Banner:** Features a clean, solid white banner background contrast-optimized with a dark violet text gradient and a light-theme frosted glassmorphic card label.
+*   **Work Experience Section:** Includes detailed records of IT support and networking installation roles at Vihan Infotech (Self-Employed) with precise operational descriptions.
+*   **Profile Picture Lightbox:** Clicking the profile picture launches a full-screen, circular lightbox overlay with premium blurred transitions.
+*   **Interactive Location Maps:** Clicking on LJ University (LJIET), Jay Somnath School, or Vihan Infotech opens a glassmorphic popup containing an interactive map iframe and a direct link to Google Maps 360° Street View (Roadview).
 *   **Interactive Coding Profile Links:** Clickable links mapping directly to my LeetCode, GeeksforGeeks, TryHackMe, GitHub, and LinkedIn profiles.
 *   **Aesthetic & Modern UI:** Responsive grid layout, micro-interactions on hover, and embedded custom vector SVG icons (no external dependency lag).
 
