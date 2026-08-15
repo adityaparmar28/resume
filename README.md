@@ -77,3 +77,6 @@ I am a B.Tech Computer Science & Information Technology student at **LJ Universi
 *   **GitHub:** [github.com/adityaparmar28](https://github.com/adityaparmar28)
 *   **LeetCode:** [leetcode.com/u/aditya-parmar](https://leetcode.com/u/aditya-parmar)
 *   **TryHackMe:** [tryhackme.com/SudoRootRunner](https://tryhackme.com/SudoRootRunner)
+*   **GeeksforGeeks:** [geeksforgeeks.org/profile/aditparmar128](https://www.geeksforgeeks.org/profile/aditparmar128)
+*   **Live Interactive Resume:** [adityaparmar28.github.io/resume](https://adityaparmar28.github.io/resume/)
+
