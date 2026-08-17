@@ -1,5 +1,7 @@
 # 📄 Interactive & Print-Optimized Web Resume
 
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 A premium, interactive, and print-friendly web-based resume built using clean, semantic **HTML5**, modern **CSS3** (with custom variables for themes), and light **JavaScript**. 
 
 This portfolio-style resume is fully optimized to fit perfectly on a single A4 page when saved or printed as a PDF.
@@ -79,4 +81,13 @@ I am a B.Tech Computer Science & Information Technology student at **LJ Universi
 *   **TryHackMe:** [tryhackme.com/SudoRootRunner](https://tryhackme.com/SudoRootRunner)
 *   **GeeksforGeeks:** [geeksforgeeks.org/profile/aditparmar128](https://www.geeksforgeeks.org/profile/aditparmar128)
 *   **Live Interactive Resume:** [adityaparmar28.github.io/resume](https://adityaparmar28.github.io/resume/)
+
+---
+
+## 📄 License
+
+This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for details.
+
+Copyright © 2026 MR. ADITYA PARMAR. All rights reserved.
+
 
